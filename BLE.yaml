@@ -1,0 +1,6 @@
+# Save as BLE.yaml
+name: "BLE"
+entrypoint: BLE.toit
+triggers:
+  on_boot: true
+  on_install: true
